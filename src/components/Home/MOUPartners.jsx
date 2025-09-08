@@ -1,5 +1,5 @@
 
-import { partners } from "../../utils/mouPartners"
+import { partners } from "../../utils/MouPartners"
 
 const MOUPartners = () => {
   return (
